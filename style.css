@@ -22,11 +22,13 @@ body{
             height: 100vh;
             margin: 0;
         }
-.logo {
+.hello {
             font-size: 70px;
             font-weight: bold;
             font-family: 'Product Sans', Arial, sans-serif;
-        }
+            color: white;
+}
+        
 
 
  input {
@@ -38,3 +40,4 @@ body{
             outline: none;
         }
 
+    
