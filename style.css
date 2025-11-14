@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(60, 60, 60);
+}
+p {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    /* line-height: 24px; */
+    /* vertical-align: middle; */
+    /* padding-right: 770px; */
+    text-align: right;
+}
+ a {
+    text-decoration: none;
+
+}
