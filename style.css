@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(60, 60, 60);
 }
@@ -12,4 +13,28 @@ body{
     align-items: center;
 }
  
+ body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+.logo {
+            font-size: 70px;
+            font-weight: bold;
+            font-family: 'Product Sans', Arial, sans-serif;
+        }
 
+
+ input {
+            width: 500px;
+            padding: 12px 20px;
+            border: 1px solid #dcdcdc;
+            border-radius: 24px;
+            font-size: 16px;
+            outline: none;
+        }
+>>>>>>> 1bc68cb1d7c02fcba85a866083c0e169d864004a
