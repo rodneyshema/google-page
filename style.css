@@ -1,3 +1,18 @@
+
+body{
+    background-color: rgb(60, 60, 60);
+}
+.code a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 200px;  
+    font-size: 18px;
+    text-align: left;
+    padding: 100px;
+    align-items: center;
+}
+ 
  body {
             font-family: Arial, sans-serif;
             display: flex;
@@ -22,3 +37,4 @@
             font-size: 16px;
             outline: none;
         }
+
