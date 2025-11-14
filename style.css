@@ -1,15 +1,16 @@
 
 body{
-    background-color: rgb(242, 236, 236);
+    background-color:rgb(60, 60, 60)
 }
-.code a {
+ a {
    color: white;
-   text-align: right;
-   display: inline;
+   text-align: center;
    margin-top: 200px;
+   justify-content: right;
+   font-size: smaller;
 }
  
- body {
+ .why {
             font-family: Arial, sans-serif;
             display: flex;
             flex-direction: column;
