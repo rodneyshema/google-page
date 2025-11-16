@@ -2,14 +2,22 @@
 body{
     background-color:rgb(60, 60, 60)
 }
- a {
-   color: white;
-   text-align: center;
-   margin-top: 200px;
-   justify-content: right;
-   font-size: smaller;
+ .loll{
+   display: flex;              
+    justify-content: flex-end;  
+    align-items: center;       
+    gap: 20px;                 
+    padding: 20px 40px 0 0;  
+
 }
- 
+ .loll a{
+
+     color: white;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+ }
+
  .why {
             font-family: Arial, sans-serif;
             display: flex;
