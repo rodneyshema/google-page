@@ -7,7 +7,7 @@ body{
     justify-content: flex-end;  
     align-items: center;       
     gap: 20px;                 
-    padding: 20px 40px 0 0;  
+    padding: 40px 60px 0 0;  
 
 }
  .loll a{
@@ -24,7 +24,7 @@ body{
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 500px;
             margin: 0;
         }
 .hello {
@@ -32,17 +32,64 @@ body{
             font-weight: bold;
             font-family: 'Product Sans', Arial, sans-serif;
             color: white;
+            text-align: center;
+            
+           
+
+        
+
 }
         
 
 
  input {
-            width: 500px;
+            width: 700px;
             padding: 12px 20px;
             border: 1px solid #dcdcdc;
             border-radius: 24px;
             font-size: 16px;
             outline: none;
+            height: 100hv;
+            align-items: center;
+            display: flex;
+             margin-top: 30px;
         }
+.shortcuts {
+    display: flex;
+    margin-top: 40px;
+    gap: 40px;
+    /* height: 55px;     */
+}
 
+.shortcut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.circle {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #5a5a5a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.plus {
+    background-color: #0066cc;
+}
+
+.shortcut p {
+    color: white;
+    margin-top: 8px;
+    font-size: 14px;
+}
+span{
+font-size: 90px;
+}
     
